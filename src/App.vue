@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="bg-javid">Hi, Welcome to my todo list</h1>
+    <h1>Hi, Welcome to my todo list</h1>
     <TodoForm @add="addItemToList"/>
     <TodoList class="todo"
           title="My Todo List"
