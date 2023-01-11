@@ -7,7 +7,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'javid': 'red'
+        'primary': '#F07167',
+        'secondary': '#FED9B7',
+        'accent': '#00AFB9'
       },
     },
   },
